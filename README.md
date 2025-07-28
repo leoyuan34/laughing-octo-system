@@ -1,7 +1,13 @@
 # Transit Travel Tips
 
-## About Us & Functional Requirements
-Transit Travel Tips is a forum designed for users to share their travel experiences on any forms of transport, ranging from buses to planes. The platform will allow users to register, log in, and manage their accounts securely. Users can interact with posts in a social media style system, categorizing them by transport type and location. The site will also feature search and filtering tools to help users easily find relevant travel tips. Basic analytics and feedback systems will help track user engagmenent and gather improvement suggestions.
+## About Us
+Transit Travel Tips is a community-driven platform where travellers, transit enthusiasts, and casual commuters come together to share useful advice about all forms of transport, from buses and trains to planes and ferries. Our goal is to create a helpful, accessible, and inclusive space for people to find and share real-world transit experiences. Built by users, for users, we believe the best travel tips come from those who have been there. Whether you're planning your next trip or navigating a daily commute, we are here to help make your journey smoother.
 
-## Non-functional Requirement
-The platform will feature a clean, user-friendly interface that works well across any type of device. User data will be stored securely using encryption, and all communication will take place over HTTPS to protect user privacy. The backend will be designed to handle increasing traffic and data volume over time without website performance issues. 
+
+| Functional Requirements | Non-Functional Requirements |
+| ----------- | ----------- |
+| User registration and login | Secure data storage using encryption |
+| Forum and post management | Friendly UI |
+| Categorisation of posts| Scalable backend for handling growth |
+| User account management |
+| Analytics and Feedback|
