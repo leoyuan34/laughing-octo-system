@@ -1,7 +1,7 @@
 # Transit Travel Tips
 
-## About Us
-Transit Travel Tips is a community-driven platform where travellers, transit enthusiasts, and casual commuters come together to share useful advice about all forms of transport, from buses and trains to planes and ferries. Our goal is to create a helpful, accessible, and inclusive space for people to find and share real-world transit experiences. Built by users, for users, we believe the best travel tips come from those who have been there. Whether you're planning your next trip or navigating a daily commute, we are here to help make your journey smoother.
+## Website Overview
+Transit Travel Tips is a user-driven website designed to help travellers share and discover advice about all forms of transport, from buses to planes. The platform will feature a clean, easy-to-use interface with categorized forums, search tools, and user profiles. It aims to create a welcoming and informative community hub with multilingual support and secure, scalable infrastructure. The design will focus on clarity, accessibility, and smooth performance across devices.
 
 
 | Functional Requirements | Non-Functional Requirements |
