@@ -37,3 +37,6 @@ a clean, simple and neutral design, similar to helvetica and nimbus sans will be
 
 ### second wireframe
 
+### login page flowchart
+
+![flowchart](designs/flowchart.png)
