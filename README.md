@@ -40,3 +40,40 @@ a clean, simple and neutral design, similar to helvetica and nimbus sans will be
 ### login page flowchart
 
 ![flowchart](designs/flowchart.png)
+
+### test cases
+**test tase id: tc01**
+
+ttle: verify that user can login with valid credentials
+
+precodintions:
+- user has an account in website database
+- user knows their credentials
+
+test steps:
+1. user clicks login button
+2. enters valid credentials in all fields
+3. click the "login" button
+
+expected results:
+- user is redirected to homepage
+
+**priority: high**
+
+**test case id: tco2**
+
+title: user enters the wrong password
+- user has an account in website database
+- user knows their email/username, but not their password
+
+test steps:
+1. user clicks login button
+2. user enters valid username and invalid password
+3. click the "login" button
+
+expected results:
+- message appears on screen that their password is incorrect
+- password section has been cleared
+- login fails
+
+
